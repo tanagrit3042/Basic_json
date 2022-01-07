@@ -2,28 +2,22 @@
     {
         "title":"What is computer ?",
         "subtitle":"I don't know",
-        "imageURL":"https://cdn.pixabay.com/photo/2021/10/07/15/12/wine-6688901_960_720.jpg",
+        "imageURL":"https://github.com/tanagrit3042/Basic_json/blob/main/spring.jpeg?raw=true",
         "detail":"00000000000000000000000000000"
     },
     {
         "title":"Who is computer :",
         "subtitle":"Who am I",
-        "imageURL":"https://assets-global.website-files.com/5e3c45dea042cf97f3689681/5e417cd336a72b06a86c73e7_Flutter-Tutorial-Header%402x.jpg",
+        "imageURL":"https://github.com/tanagrit3042/Basic_json/blob/main/flutter.jpg?raw=true",
         "detail":"ข้อมูลจำบอวการทำวานกหด่สหกด่วสฟหกดวหฟากดวฟหกาด่ฟวหกด่ฟวหสกด่วาสฟหกด่สวฟหก่ดสฟห่ดสาฟหวก"
     },
     {
         "title":"Hello world .",
         "subtitle":"Me too.",
-        "imageURL":"https://m.media-amazon.com/images/M/MV5BOGIwYjZlOTctZTNhOC00OTdiLWI5ZWItOTdiMWRjMjUwMDlhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_FMjpg_UX1000_.jpg",
+        "imageURL":"https://github.com/tanagrit3042/Basic_json/blob/main/wine.jpg?raw=true",
         "detail":"หกดหกดหกฟดดดดดด"
     },
-    {
-        "title":"Python sad .",
-        "subtitle":"Me too.",
-        "imageURL":"https://m.media-amazon.com/images/M/MV5BOGIwYjZlOTctZTNhOC00OTdiLWI5ZWItOTdiMWRjMjUwMDlhXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_FMjpg_UX1000_.jpg",
-        "detail":"131654492255"
-    }
-]
+ 
 
 
 
